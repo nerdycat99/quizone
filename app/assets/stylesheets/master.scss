@@ -1,7 +1,6 @@
 @import "bootstrap";
 
-.staticheader{
-  background-color: #fafafa;
+.staticheader {
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   color: #125688;
@@ -18,9 +17,15 @@
   box-shadow: 0px 1px 3px #2a2a2a; 
 }
 
-.statictext{
+.statictext {
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   color: #125688;
-  font-size: 28px;
+  font-size: 24px;
+}
+
+.staticbullets {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #125688;
+  font-size: 20px;
 }
