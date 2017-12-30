@@ -1,0 +1,26 @@
+@import "bootstrap";
+
+.staticheader{
+  background-color: #fafafa;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #125688;
+  font-size: 38px;
+}
+
+.hero {
+  background: image_url('jelly.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 370px;
+  box-shadow: 0px 1px 3px #2a2a2a; 
+}
+
+.statictext{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #125688;
+  font-size: 28px;
+}
